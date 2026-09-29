@@ -55,6 +55,3 @@ To run this architecture, your infrastructure must have:
 ## Citation / Associated Publication
 If you use this code in your research, please refer to our associated paper published in the *Journal of the Brazilian Computer Society (JBCS)*:
 > Czerniej, R., & Oyamada, M. (2026). *Adaptive Execution of Serverless Functions Across the Computing Continuum*. Journal of the Brazilian Computer Society.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
