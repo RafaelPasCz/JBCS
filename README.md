@@ -1,6 +1,6 @@
-# Adaptive Serverless Execution Across the Computing Continuum
+# FaaSwitch: Adaptive Serverless Execution Across the Computing Continuum
 
-This repository contains the source code for an adaptive Function-as-a-Service (FaaS) orchestration system. The architecture dynamically distributes computational workloads across the Computing Continuum (Edge, Fog, and Cloud layers) to optimize execution time and minimize energy consumption on resource-constrained IoT devices. 
+This repository contains the source code for FaaSwitch, an adaptive Function-as-a-Service (FaaS) orchestration system. The architecture dynamically distributes computational workloads across the Computing Continuum (Edge, Fog, and Cloud layers) to optimize execution time and minimize energy consumption on resource-constrained IoT devices. 
 
 This project was developed as part of an undergraduate thesis in Computer Science at the State University of Western Paraná (UNIOESTE) and evaluates the use of repurposed TV Boxes as viable edge computing nodes.
 
